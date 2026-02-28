@@ -276,9 +276,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 
-- **Website:** [commandoai.app](https://commandoai.app)
-- **Email:** team@commandoai.app
-- **GitHub:** [@commando-ai](https://github.com/commando-ai)
+- **Website:** [commandoai.app](https://commando-ai.vercel.app/)
+- **GitHub:** [@commando-ai](https://github.com/VirusHacks/Commando-AI)
 
 ---
 
