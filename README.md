@@ -2,8 +2,14 @@
 
 [![Next.js 14](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![AMD Powered](https://img.shields.io/badge/AMD-EPYC%20%7C%20Radeon-ED1C24.svg)](https://www.amd.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4.svg)](https://deepmind.google/technologies/gemini/)
+[![Clerk](https://img.shields.io/badge/Clerk-Auth-6C47FF.svg)](https://clerk.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748.svg)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1.svg)](https://www.postgresql.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-UI-black.svg)](https://ui.shadcn.com/)
+[![ReactFlow](https://img.shields.io/badge/ReactFlow-Workflows-FF0072.svg)](https://reactflow.dev/)
+[![OpenAI Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991.svg)](https://openai.com/research/whisper)
 
 > AI project management with AMD GPU-accelerated Monte Carlo predictions. Multi-agent AI optimizes resources and automates workflows across Slack, Discord, Google Drive, Notion. Real-time transcription and intelligent task automation included.
 
