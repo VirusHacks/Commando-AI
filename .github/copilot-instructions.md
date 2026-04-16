@@ -637,14 +637,3 @@ const [error, setError] = useState<string | null>(null)
 </Alert>
 ```
 
-### Production Checklist
-- [ ] All API routes verify `auth()` before operations
-- [ ] Database queries include proper `where` clauses with userId
-- [ ] Error boundaries wrap page components
-- [ ] Loading states for all async operations
-- [ ] Form validation with Zod schemas
-- [ ] Rate limiting on public endpoints
-- [ ] Proper CORS headers for webhooks
-- [ ] Environment variables validated at startup
-- [ ] Prisma client singleton (`src/lib/db.ts`)
-- [ ] Revalidate paths after mutations
